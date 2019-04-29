@@ -8,7 +8,7 @@ module.exports = {
       // 即 docs/.vuepress/public/img/geass-bg.ico
       ['link', { rel: 'icon', href: '/img/geass-bg.ico' }], 
   ],
-  base: '/wiki/', // 这是部署到github相关的配置
+  base: '/wikiPro/', // 这是部署到github相关的配置
   markdown: {
       lineNumbers: true // 代码块显示行号
   },
